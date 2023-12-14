@@ -1,5 +1,5 @@
-{
+local table = {
 ["MTkzODk2NTg4OQ"] = {
   name = L3V1Y;
-  }
+                     }
 }
